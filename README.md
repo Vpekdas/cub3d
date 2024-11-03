@@ -7,8 +7,7 @@
 2. [Installation Instructions](#installation-instructions)
 3. [Usage Instructions](#usage-instructions)
 4. [Key Features](#key-features)
-5. [Contribution Guidelines](#contribution-guidelines)
-6. [Acknowledgments](#acknowledgments)
+5. [Acknowledgments](#acknowledgments)
 
 ## Description
 
@@ -55,7 +54,7 @@ This will create an executable file named cub3d.
 ./cub3d maps/minimalist.cub
 ```
 
-## 4. Controls
+## Controls
 
 - `W`: Move Forward
 - `A`: Move Left
