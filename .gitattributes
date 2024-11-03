@@ -1,0 +1,4 @@
+mlx/ linguist-vendored
+assets/ linguist-vendored
+maps/ linguist-vendored
+*.roff linguist-vendored
